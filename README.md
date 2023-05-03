@@ -11,7 +11,7 @@ ___
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![NodeJS](https://img.shields.io/badge/nodejs-green&logo=nodejs&logoColor=white&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/nodejs-green?logo=nodejs&logoColor=white&style=for-the-badge)
 
 <h2 align="center">Contact me</h2>
 
