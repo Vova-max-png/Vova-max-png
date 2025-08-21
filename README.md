@@ -16,4 +16,4 @@ ___
 
 <h2 align="center">Contact me</h2>
 
-You can contact me on [Telegram](https://t.me/@terminator888).
+You can contact me on [Telegram](https://t.me/@terminator888) or visit my [Web site](https://badcoder.ru).
