@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vova <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height=32></img></h1>
 
-<h3 align="center">I live in Russia<img src="https://www.countryflags.com/wp-content/uploads/russia-flag-png-xl.png" height=10 alt="There is a Russian flag"></img> and I study and really love Rust programming language.<img src="https://sdtimes.com/wp-content/uploads/2021/02/V37jFq0v_400x400.jpg" height=16 alt="There is a Rust icon"></img> I want to learn new thing and improve my skills. This is my Github page.<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height=20></img> Here you can find all of my repositroies. Have a good day!</h3>
+<h3 align="center">I live in Russia<img src="https://www.countryflags.com/wp-content/uploads/russia-flag-png-xl.png" height=10 alt="There is a Russian flag"></img> and I study and really love Rust programming language.<img src="https://sdtimes.com/wp-content/uploads/2021/02/V37jFq0v_400x400.jpg" height=16 alt="There is a Rust icon"></img> I want to learn new things and improve my skills. This is my Github page.<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height=20></img> Here you can find all of my repositroies. Have a good day!</h3>
 
 ___
 
